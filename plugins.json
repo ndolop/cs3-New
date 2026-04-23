@@ -1,9 +1,8 @@
-[
-  {
-    "name": "Pusatfilm",
-    "description": "Provider Pusatfilm Indonesia",
-    "version": 1,
-    "url": "https://github.com/ndolop/cs3-New/blob/main/Idlix.cs3",
-    "authors": ["ION"]
-  }
-]
+{
+    "name": "Indostream Repo",
+    "description": "Cloudstream Indonesia Repo",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/plugins.json"
+    ]
+}
