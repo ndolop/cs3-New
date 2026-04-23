@@ -3,6 +3,6 @@
     "description": "Cloudstream Indonesia Repo",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/plugins.json"
+      "https://github.com/ndolop/cs3-New/blob/main/plugins.json"
     ]
 }
